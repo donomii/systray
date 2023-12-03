@@ -20,8 +20,8 @@ import (
 	"github.com/godbus/dbus/v5/introspect"
 	"github.com/godbus/dbus/v5/prop"
 
-	"fyne.io/systray/internal/generated/menu"
-	"fyne.io/systray/internal/generated/notifier"
+	"donomii/systray/internal/generated/menu"
+	"donomii/systray/internal/generated/notifier"
 )
 
 const (
